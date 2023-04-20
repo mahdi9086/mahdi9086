@@ -29,7 +29,7 @@ In my free time, I enjoy being outdoors, listening to music, traveling, and expe
 
 <h2> Connect with me!</h2>
 
-<a href="#">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.facebook.com/mahadi.hasan228?_rdc=1&_rdr">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
 
 
