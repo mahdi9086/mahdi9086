@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Md Mahdi Hasan 👋
+#### 👑 I am Web Designer • Developer
+Hello, My name is Md Mahdi Hasan! I'm a web designer and front-end developer. My job is to build your website so that it is functional and user-friendly but at the same time attractive.
 
-<!--
-**mahadi160/mahadi160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable.
 
-Here are some ideas to get you started:
+I’ve worked with companies of all shapes and sizes, so contact me if you’d like to work together on your next project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I enjoy being outdoors, listening to music, traveling, and experiencing new and exciting adventures.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
