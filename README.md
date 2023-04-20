@@ -27,3 +27,7 @@ In my free time, I enjoy being outdoors, listening to music, traveling, and expe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi160)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2> Connect with me!</h2>
+
+
+
