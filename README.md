@@ -29,7 +29,8 @@ In my free time, I enjoy being outdoors, listening to music, traveling, and expe
 
 <h2> Connect with me!</h2>
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<a href="#">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+
 
 
 
