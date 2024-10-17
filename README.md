@@ -25,8 +25,6 @@ In my free time, I enjoy being outdoors, listening to music, traveling, and expe
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi160)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2> Connect with me!</h2>
 
 <a href="https://www.facebook.com/mahadi.hasan228?_rdc=1&_rdr">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
